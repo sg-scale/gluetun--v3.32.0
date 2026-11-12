@@ -1,6 +1,6 @@
 module github.com/qdm12/gluetun
 
-go 1.19
+go 1.26.0
 
 require (
 	github.com/breml/rootcerts v0.2.8
@@ -19,7 +19,7 @@ require (
 	github.com/vishvananda/netlink v1.1.1-0.20211129163951-9ada19101fc5
 	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2
 	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.44.0
 	golang.zx2c4.com/wireguard v0.0.0-20220703234212-c31a7b1ab478
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20220504211119-3d4a969bb56b
 	inet.af/netaddr v0.0.0-20210718074554-06ca8145d722
@@ -42,7 +42,7 @@ require (
 	go4.org/intern v0.0.0-20210108033219-3eb7198706b2 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
+	golang.org/x/sync v0.25.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20211104114900-415007cec224 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
