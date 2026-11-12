@@ -16,9 +16,9 @@ require (
 	github.com/qdm12/ss-server v0.4.0
 	github.com/qdm12/updated v0.0.0-20210603204757-205acfe6937e
 	github.com/stretchr/testify v1.8.1
-	github.com/vishvananda/netlink v1.1.1-0.20211129163951-9ada19101fc5
+	github.com/vishvananda/netlink v1.3.1
 	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2
-	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/sys v0.10.0
 	golang.org/x/text v0.4.0
 	golang.zx2c4.com/wireguard v0.0.0-20220703234212-c31a7b1ab478
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20220504211119-3d4a969bb56b
@@ -38,7 +38,7 @@ require (
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
-	github.com/vishvananda/netns v0.0.0-20200728191858-db3c7e526aae // indirect
+	github.com/vishvananda/netns v0.0.5 // indirect
 	go4.org/intern v0.0.0-20210108033219-3eb7198706b2 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
